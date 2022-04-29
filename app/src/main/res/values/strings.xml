@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_Test_MVVM_Retrofit_Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_with">Or, login with…</string>
+    <string name="newTo">New to iThickLogistics?</string>
+    <string name="register">Register</string>
+
+</resources>
